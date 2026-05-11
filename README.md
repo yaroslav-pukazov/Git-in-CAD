@@ -1,2 +1,2 @@
-#WHITE PAPER GITCAD
+# WHITE PAPER GITCAD
 Белая книга GitCAD.io 
